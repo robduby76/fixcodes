@@ -53,3 +53,8 @@ section{scroll-margin-top:80px}
 @media(max-width:720px){body{font-size:16px}.nav a{margin-left:14px}.nav a:last-child{display:none}.foot{grid-template-columns:1fr;gap:18px}.hero{padding-top:28px}main{padding:20px 16px 40px}.guides{grid-template-columns:1fr}}
 
 .brand-badge{color:#fff!important;font-weight:700;font-size:1.2rem;border-radius:10px}
+/* filters section */
+.ftable{border-collapse:collapse;width:100%;margin:12px 0}.ftable th,.ftable td{border:1px solid #e3e7ee;padding:8px 10px;text-align:left;vertical-align:top}.ftable th{background:#f5f7fb}
+.buybox .buylinks{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.btn.buy{text-decoration:none}
+details.faq{border:1px solid #e3e7ee;border-radius:8px;padding:10px 14px;margin:8px 0}details.faq summary{font-weight:600;cursor:pointer}
+.callout.filtercheck{background:#ecfdf5;border-left:4px solid #0e7c66}
