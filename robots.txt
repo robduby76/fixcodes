@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://thefixcodes.com/sitemap.xml
+Sitemap: https://thefixcodes.com/car/sitemap.xml
