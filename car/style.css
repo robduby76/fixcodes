@@ -63,3 +63,4 @@ details.faq{border:1px solid #e3e7ee;border-radius:8px;padding:10px 14px;margin:
 .sev{display:inline-block;font-weight:700;padding:4px 12px;border-radius:99px;font-size:.85rem}.sev.low{background:#dcfce7;color:#166534}.sev.med{background:#fef3c7;color:#92400e}.sev.high{background:#fee2e2;color:#991b1b}
 .costnote{font-size:.92rem;color:var(--muted);font-style:italic}
 .related{display:flex;flex-wrap:wrap;gap:8px}.related a,.related span{text-decoration:none}
+.search input{font-size:16px;font-size:max(16px,1.1rem);-webkit-appearance:none;appearance:none;border-radius:0}.search input::-webkit-search-decoration{-webkit-appearance:none}.search-results{max-width:640px;margin:14px auto 0;text-align:left}#empty{text-align:center;margin-top:12px}
