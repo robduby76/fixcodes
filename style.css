@@ -71,3 +71,10 @@ details.faq{border:1px solid #e3e7ee;border-radius:8px;padding:10px 14px;margin:
 .nx-cta .nx-arrow{margin-left:.35em;font-weight:700}
 .nx-disc{margin:.85rem 0 0;font-size:.78rem;line-height:1.4;color:#6b7c93}
 @media(max-width:480px){.nx-lead-inner{padding:1.1rem .95rem 1rem}.nx-h{font-size:1.12rem}.nx-cta{display:block;width:100%;padding:15px 18px;box-sizing:border-box}}
+/* family hubs (2026-11-15) */
+.hubgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.hubcol{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:14px 18px}.hubcol h3{margin:.2em 0 .5em;font-size:1rem}
+.hubcol ul{list-style:none;padding:0;margin:0}.hubcol li{padding:4px 0;font-size:.95rem}.hubcol small{color:var(--muted)}
+.hubtable td:first-child{white-space:nowrap;width:1%}.hubtable .muted{font-size:.92rem}
+.hublinks{font-size:.92rem;margin:.4em 0}
+.glance th{width:34%;background:#f5f7fb}
